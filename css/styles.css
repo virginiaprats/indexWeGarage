@@ -80,6 +80,11 @@
 
 .contenedor-texto p{
     color: #7A7A7A;
+
+}
+
+.contenedor-texto{
+    
 }
 
 
@@ -100,10 +105,13 @@
     width: 70%;
     align-items: center;
     margin: 10% auto;
+    
 }
 
 .contenedor-texto-adentro h3{
     font-size: 50px;
+    text-align: left;
+    
 }
 
 
@@ -114,3 +122,29 @@
     object-fit: cover;
 }
 
+
+svg{
+    width: 8%;
+}
+
+ul li{
+    list-style: none;
+}
+
+.lista{
+    text-align:left;
+    background-color: left;
+    
+    padding-left: 0%;
+    
+}
+
+.lista li{
+    text-align: left;
+    text-align:unset;
+    padding-left: 0;
+    margin-bottom: 2%;
+    color: rgb(48, 54, 76);
+    font-weight: 700;
+    
+}
