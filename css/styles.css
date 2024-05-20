@@ -1,0 +1,56 @@
+.titulo{
+    color: #394A8F;
+    text-align: center;
+    font-size: 50px;
+}
+
+.parrafo{
+    text-align: center;
+    font-size: 18px;
+    color: #7A7A7A;
+}
+
+.container{
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+}
+
+.btn-reserva{
+    background-color: #394A8F;
+    color: white;
+}
+
+.suscribite{
+    height: 20rem;
+    display: grid;
+    grid-template-columns: 50% 50%;
+  
+}
+
+.contenedor-suscripcion {
+    display: flex;
+}
+
+.contenedor-texto h3{
+    color: #394A8F;
+}
+
+.contenedor-texto p{
+    color: #7A7A7A;
+}
+
+
+.contenedor-imagen {
+    height: 70%;
+    width: 70%;
+    align-items: center;
+    margin: auto;
+
+    background-image: url(../img/dibujo.svg) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+
+
